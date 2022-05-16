@@ -1,4 +1,4 @@
-# cpsc485-minimum-edit-distance
+# minimum-edit-distance
 Language used: Python (vanilla)
 Program created and ran on: Visual Studio Code
 
